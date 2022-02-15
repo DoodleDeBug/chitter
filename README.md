@@ -1,6 +1,6 @@
 # chitter
 
-Features:
+## Features:
 
 ```
 
@@ -38,7 +38,7 @@ As a Maker
 So that I can stay constantly tapped in to the shouty box of Chitter
 I want to receive an email if I am tagged in a Peep
 ```
-Notes on functionality:
+## Notes on functionality:
 
     - You don't have to be logged in to see the peeps.
     - Makers sign up to chitter with their email, password, name and a username (e.g. samm@makersacademy.com, password123, Sam Morgan, sjmog).
@@ -46,7 +46,7 @@ Notes on functionality:
     - Peeps (posts to chitter) have the name of the maker and their user handle.
     - Your README should indicate the technologies used, and give instructions on how to install and run the tests.
 
-Bonus:
+### Bonus:
 
 If you have time you can implement the following:
 
