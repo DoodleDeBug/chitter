@@ -7,11 +7,11 @@
 STRAIGHT UP
 
 As a Maker
-So that I can let people know what I am doing  
+So that I can let people know what I am doing
 I want to post a message (peep) to chitter
 
 As a maker
-So that I can see what others are saying  
+So that I can see what others are saying
 I want to see all peeps in reverse chronological order
 
 As a Maker
@@ -38,7 +38,9 @@ As a Maker
 So that I can stay constantly tapped in to the shouty box of Chitter
 I want to receive an email if I am tagged in a Peep
 ```
+
 ## Notes on functionality:
+
 - You don't have to be logged in to see the peeps.
 - Makers sign up to chitter with their email, password, name and a username (e.g. samm@makersacademy.com, password123, Sam Morgan, sjmog).
 - The username and email are unique.
@@ -49,4 +51,25 @@ I want to receive an email if I am tagged in a Peep
 
 If you have time you can implement the following:
 
-* In order to start a conversation as a maker I want to reply to a peep from another maker.
+- In order to start a conversation as a maker I want to reply to a peep from another maker.
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+- Ruby version
+
+- System dependencies
+
+- Configuration
+
+- Database creation
+
+- Database initialization
+
+- How to run the test suite
+
+- Services (job queues, cache servers, search engines, etc.)
+
+- Deployment instructions
